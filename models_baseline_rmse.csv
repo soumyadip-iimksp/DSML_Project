@@ -1,0 +1,9 @@
+model,rmse
+Linear Regression,1.0329
+Lasso,1.1222
+Ridge,0.4727
+Elastic Net,1.0816
+Random Forest,79.0883
+GradientBoosting,93.8306
+ExtraTrees,0.0024
+XG Boost,0.2905
