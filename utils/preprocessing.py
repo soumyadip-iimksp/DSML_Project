@@ -2,11 +2,9 @@ import pandas as pd
 import numpy as np
 import pickle as pkl
 from sklearn.preprocessing import OneHotEncoder
-#from sklearn.preprocessing import StandardScaler
 from sklearn.feature_extraction import DictVectorizer
 from sklearn.impute import KNNImputer, SimpleImputer
 from sklearn.ensemble import RandomForestRegressor
-
 
 
 class Preprocessor:

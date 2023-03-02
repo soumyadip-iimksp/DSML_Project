@@ -1,0 +1,8 @@
+./models/duration_rfe_hypertuned.bin
+./models/duration_xtratree_hypertuned.bin
+./models/fare_rfe_hypertuned.bin
+./models/fare_xtratree_hypertuned.bin
+models/fare_xtratree_hypertuned.bin
+models/fare_rfe_hypertuned.bin
+models/duration_xtratree_hypertuned.bin
+models/duration_rfe_hypertuned.bin
