@@ -1,3 +1,9 @@
+__author__ = "Soumyadip Majumder"
+__version__ = "1.0.4"
+__maintainer__ = "Soumyadip Majumder"
+__status__ = "Test"
+__date__ = "28 Feb 2023"
+
 import pandas as pd
 import json
 import gc

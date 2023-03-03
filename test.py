@@ -1,3 +1,9 @@
+__author__ = "Soumyadip Majumder"
+__version__ = "1.0.2"
+__maintainer__ = "Soumyadip Majumder"
+__status__ = "Test"
+__date__ = "02 Mar 2023"
+
 import pandas as pd
 import joblib
 import json
