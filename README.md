@@ -24,11 +24,11 @@ models/duration_rfe_hypertuned.bin
 
 ## Tableau Visualization of Metrics and Hyperparameters 
 <br>
-**Fare Prediction Model Metrics Visualization** ([link](https://public.tableau.com/views/DS_ML_Project_tableau_Dashboards_Fare_Prediction/FarePredictionDashboard?:language=en-US&:display_count=n&:origin=viz_share_link))
+**Fare Prediction Model Metrics Visualization** ((link)[https://public.tableau.com/views/DS_ML_Project_tableau_Dashboards_Fare_Prediction/FarePredictionDashboard?:language=en-US&:display_count=n&:origin=viz_share_link])
 <img width="1258" alt="Screenshot 2023-03-03 150646" src="https://user-images.githubusercontent.com/121397382/222685889-8caf3148-11ff-4300-a1f6-eebf8ebf142f.png">
 <br>
 <br>
-**Duration Prediction Model Metrics Visualization** ([link](https://public.tableau.com/shared/DHSYWHQGP?:display_count=n&:origin=viz_share_link))
+**Duration Prediction Model Metrics Visualization** ((link)[https://public.tableau.com/shared/DHSYWHQGP?:display_count=n&:origin=viz_share_link])
 <img width="1260" alt="Screenshot 2023-03-03 150808" src="https://user-images.githubusercontent.com/121397382/222685898-704d377c-f3c6-41c4-a3f5-238ed1eefdc3.png">
 
 
