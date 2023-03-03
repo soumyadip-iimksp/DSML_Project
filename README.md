@@ -17,3 +17,7 @@ models/fare_rfe_hypertuned.bin
 models/duration_xtratree_hypertuned.bin
 models/duration_rfe_hypertuned.bin
 ```
+
+**Training Data:** [datasets\yellow_tripdata_2022-01.parquet](https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2022-01.parquet) <br>
+**Validation Data:** [datasets\yellow_tripdata_2022-02.parquet](https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2022-02.parquet) <br>
+**Test Data:** [datasets\yellow_tripdata_2022-03.parquet](https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2022-03.parquet) <br>
