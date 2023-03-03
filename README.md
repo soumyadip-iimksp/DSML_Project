@@ -22,10 +22,8 @@ models/duration_rfe_hypertuned.bin
 **Validation Data:** [datasets\yellow_tripdata_2022-02.parquet](https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2022-02.parquet) <br>
 **Test Data:** [datasets\yellow_tripdata_2022-03.parquet](https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2022-03.parquet) <br>
 
-## Tableau Visualization of Metrics and Hyperparameters 
-<br>
-**Fare Prediction Model Metrics Visualization** 
-[link](https://public.tableau.com/views/DS_ML_Project_tableau_Dashboards_Fare_Prediction/FarePredictionDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
+## Tableau Visualization of Metrics and Hyperparameters <br>
+**Fare Prediction Model Metrics Visualization** [link](https://public.tableau.com/views/DS_ML_Project_tableau_Dashboards_Fare_Prediction/FarePredictionDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 <img width="1258" alt="Screenshot 2023-03-03 150646" src="https://user-images.githubusercontent.com/121397382/222685889-8caf3148-11ff-4300-a1f6-eebf8ebf142f.png">
 <br>
 <br>
